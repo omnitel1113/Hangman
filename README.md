@@ -1,2 +1,2 @@
 # Hangman
-Code for Hangman in Python using turtle library graphic functions
+Code for Hangman game in Python using turtle library graphic functions
