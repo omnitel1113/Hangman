@@ -6,6 +6,8 @@ To make my project # 2 from the "Python is easy" course of {PIRPLE.com} I studie
 I tried to explain how I used different functions from turtle library with comments within in my code. 
 
 ## The Hangman code
+```
+
 import turtle as t
 from random import randint
 import time
@@ -217,4 +219,5 @@ def RtLeg():
     
 main()
     
+    ```
                
